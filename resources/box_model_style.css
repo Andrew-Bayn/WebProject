@@ -1,0 +1,53 @@
+body {
+    padding: 0 24px 36px 24px;
+}
+
+a {
+    color: #B9464D;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #123C86;
+}
+
+p.text_content {
+    background-color: #B9464D;
+    color: white;
+    width: 800px;
+    border: #123C86 double 3px;
+    padding: 8px;
+}
+
+div {
+    background-color: #B9464D;
+    width: 646px;
+    padding: 7px;
+    border: #123C86 inset 4px;
+}
+
+h1, h2, h3 {
+    color: #862112;
+}
+
+h1 {
+    text-align: center;
+}
+
+th {
+    font-size: 1.3em;
+}
+
+td {
+    font-size: 1.1em;
+}
+
+th, td {
+    border: #123C86 solid 3px;
+    padding: 8px;
+}
+
+table {
+    border-collapse: collapse;
+}
