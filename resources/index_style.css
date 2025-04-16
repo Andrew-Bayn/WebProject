@@ -1,0 +1,47 @@
+body {
+    background-color: #FFFCC9;
+    padding: 0 24px 36px 24px;
+}
+
+p {
+    font-size: 1.1em;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1, h2, h3 {
+    font-style: bold;
+    color: #761215;
+}
+
+th {
+    font-size: 1.3em;
+}
+
+tr {
+    font-size: 1.1em;
+}
+
+th, td {
+    border: #761215 solid 3px;
+    padding: 8px;
+}
+
+table {
+    text-align: center;
+    border-collapse: collapse;
+}
+
+a {
+    color: #127673;
+}
+
+a:hover {
+    color: #761215;
+}
+
+div {
+    text-align: center;
+}
